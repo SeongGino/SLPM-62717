@@ -3,8 +3,8 @@
 ###### By way of emulator-assisted texture replacement
 
 <p align="center">
-  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreigxonqweyhzyvddrrj64tewwo2bd2w7fzu6h6dcf2a3jarnxuplpe@jpeg" width="420"/> <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreifyzw6j6nv65fpub5bixlfco5ssxkakwnvhb5dkkwgdmc6pvpmjle@jpeg" width="420"/>
-  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreicyyzx3s5x3fdhbboniay3dhskgypnxki6p2bapsjxsxv4fulfdry@jpeg" width="420"/> <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreicjuf7szodatdsns5ffmq2cqxnva3bnkmfeictoews7n4cdreckfy@jpeg" width="420"/>
+  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreigxonqweyhzyvddrrj64tewwo2bd2w7fzu6h6dcf2a3jarnxuplpe@jpeg" width="400"/> <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreifyzw6j6nv65fpub5bixlfco5ssxkakwnvhb5dkkwgdmc6pvpmjle@jpeg" width="400"/>
+  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreicyyzx3s5x3fdhbboniay3dhskgypnxki6p2bapsjxsxv4fulfdry@jpeg" width="400"/> <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jl65duvyqgjqafpa5oxa52fv/bafkreicjuf7szodatdsns5ffmq2cqxnva3bnkmfeictoews7n4cdreckfy@jpeg" width="400"/>
 </p>
 
 Because of Die Hard Arcade's nature of being developed as a (very loose) adaptation of American IP first before being adapted into an original title, all things related to the main scenario were already in English, including the main weapon icon banners used in the Arcade/Saturn game - the only change in adapting Die Hard Arcade to Dynamite Deka was the iconography, changing the QTE prompts to Japanese Kana, and some added subtitles with *very* loose translations of the (still) English dialogue.
